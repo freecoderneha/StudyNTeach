@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">StudyNTeach</string>
+    <string name="create">Create</string>
+    <string name="me">Me</string>
+    <string name="search">Search</string>
+    <string name="newp">New</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">GET SMARTER</string>
+    <string name="slide_1_desc">Inspiring topics for curious minds.</string>
+
+    <string name="slide_2_title">DAILY INSPIRATION</string>
+    <string name="slide_2_desc">Five new editor picks every morning in the app.</string>
+
+    <string name="slide_3_title">DISCOVER</string>
+    <string name="slide_3_desc">Explore thousands of fascinating articles.</string>
+
+    <string name="slide_4_title">SAVE AND SHARE</string>
+    <string name="slide_4_desc">Sign up to save your favorites.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="save">Save</string>
+
+    <string name="fav">Pick your favorite topics</string>
+<string name="book">Bookmark</string>
+    <string name="sign">Sign Out</string>
+    <string name="bookmarks">Bookmarks</string>
+
+
+    <string name="prompt_email">Email or Phone Number</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Please enter a valid email id or phone number</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="create_new">Create new account</string>
+    <string name="new_password">Forgot password?</string>
+    <string name="title_activity_login">Sign in</string>
+</resources>
